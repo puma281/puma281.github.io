@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "puma"
+title                    : "Uma"
 title_separator          : "-"
 name                     : &name "Umamaheshwara Rao Puttu"
 description              : &description "Dual Degree, Chemical Engineering, IIT Bombay"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Umamaheshwara Rao Puttu"
+  name             : "Umamaheshwara Rao Puttu (Uma)"
   avatar           : "profile.png"
   bio              : "Dual Degree, Chemical Engineering, IIT Bombay"
   location         : "Mumbai"
