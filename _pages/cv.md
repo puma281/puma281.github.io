@@ -46,3 +46,9 @@ Projects
 # Life Cycle Assessment of Rubber Tyres
 * Assessed production methodologies and fuel characterization of rubber tires from waste tires produced in India
 * Estimated the carbon emission characteristics of the car tire in the life cycle stages mainly focusing on the end-of-life waste passenger tires  using the OpenLCA software
+
+Teaching Experience
+===================
+# Teaching Assistant 
+## Engineering Drawing: First-year undergraduate course, Department of Mechanical Engineering
+* Mentored 50+ students and conducted regular tutorial sessions, quizzes, and weekly assignments. Provided individual assistance and study materials and evaluated answer scripts
