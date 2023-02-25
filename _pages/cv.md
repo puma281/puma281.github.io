@@ -52,3 +52,8 @@ Teaching Experience
 ## Teaching Assistant 
 ### Engineering Drawing: First-year undergraduate course, Department of Mechanical Engineering
 * Mentored 50+ students and conducted regular tutorial sessions, quizzes, and weekly assignments. Provided individual assistance and study materials and evaluated answer scripts
+
+Technical Skills
+================
+* **Languages** : C, C++, LaTeX, MATLAB, Maple,Python, R,Simulink, Wolfram Mathematica
+* **Software** : ANSYS, Auto CAD, DWSIM,  OpenLCA, OpenFOAM, R Studio, Scilab
