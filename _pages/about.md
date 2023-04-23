@@ -12,9 +12,9 @@ Hello, I am a fifth year Dual Degree student in the Department of Chemical Engin
 
 A long story...
 ======
-I absolutely love watching cricket, it's a sport that has always fascinated me. The adrenaline rush when my favorite team is playing, the excitement of close matches, and the anticipation of every run scored or wicket taken, make it an enthralling experience. I enjoy analyzing the strategies, discussing the game with fellow cricket enthusiasts, and celebrating the victories with my friends and family. It's a great way for me to unwind and immerse myself in the thrilling world of cricket.
+I absolutely love watching cricket, it's a sport that has always fascinated me. The adrenaline rush when my favorite team is playing, the excitement of close matches, and the anticipation of every run scored or wicket taken, make it an enthralling experience.
 
-Playing hockey is another passion of mine. The thrill of being on the field, the sound of the ball hitting the stick, and the camaraderie among the team members make it an invigorating experience. The strategic moves, the coordination with my teammates, and the rush of scoring a goal or making a crucial save are incredibly satisfying. Hockey also keeps me physically active and challenges me to push my limits, making it a fulfilling and enjoyable sport for me.
+Playing hockey is another passion of mine. The thrill of being on the field, the sound of the ball hitting the stick, and the camaraderie among the team members make it an invigorating experience. Hockey also keeps me physically active and challenges me to push my limits, making it a fulfilling and enjoyable sport for me.
 
 Running in the evening is a routine that I look forward to every day. As the sun starts to set, I lace up my running shoes and head out to hit the pavement. The fresh air, the rhythmic sound of my footsteps, and the stunning colors of the sky during sunset create a serene ambiance. It's my time to reflect, clear my mind, and recharge after a long day. Watching the beautiful sunsets while running adds a touch of magic to my workout routine and helps me connect with nature.
 
