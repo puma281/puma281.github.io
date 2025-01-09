@@ -12,11 +12,11 @@ Hello, I am a fifth year Dual Degree student in the Department of Chemical Engin
 
 A long story...
 ======
-I absolutely love watching cricket, it's a sport that has always fascinated me. The adrenaline rush when my favorite team is playing, the excitement of close matches, and the anticipation of every run scored or wicket taken, make it an enthralling experience.
+I really enjoy watching cricket—it's a sport that totally grabs my attention. The thrill when my favorite team is on the field, the excitement of a match that’s neck and neck, and the eagerness for every run or wicket make it so captivating for me.
 
-Playing hockey is another passion of mine. The thrill of being on the field, the sound of the ball hitting the stick, and the camaraderie among the team members make it an invigorating experience. Hockey also keeps me physically active and challenges me to push my limits, making it a fulfilling and enjoyable sport for me.
+Hockey is another favorite of mine. Being on the field, hearing the ball hit the stick, and being part of a team is exhilarating. Hockey keeps me moving and pushes me to my limits, making it a fun and rewarding sport.
 
-Running in the evening is a routine that I look forward to every day. As the sun starts to set, I lace up my running shoes and head out to hit the pavement. The fresh air, the rhythmic sound of my footsteps, and the stunning colors of the sky during sunset create a serene ambiance. It's my time to reflect, clear my mind, and recharge after a long day. Watching the beautiful sunsets while running adds a touch of magic to my workout routine and helps me connect with nature.
+Every evening, I look forward to my run. As the sun goes down, I lace up my shoes and hit the road. The fresh air, the rhythm of my steps, and the beautiful sunset colors create a peaceful vibe. It’s my time to relax, clear my head, and recharge after a busy day. Running while enjoying the sunset adds a magical touch to my routine and helps me feel connected to nature.
 
-And when I have some free time to relax and unwind, I love watching Amrutham, the OG Telugu comedy sitcom. The show never fails to put a smile on my face with its hilarious characters, witty dialogues, and comical situations. I enjoy the antics of Amrutham and Anji as they navigate through their misadventures, and the eccentricities of characters like Sanju, Appaji, and Sarvam always leave me in splits. It's a show that has a special place in my heart, and I find it a perfect stress-reliever after a long day.
+When I have some downtime, I love watching Amrutham, a classic Telugu comedy show. It always makes me laugh with its funny characters, clever dialogues, and hilarious situations. I get a kick out of Amrutham and Anji’s misadventures, and characters like Sanju, Appaji, and Sarvam always crack me up. This show holds a special place in my heart and is a perfect way to unwind after a long day.
 
