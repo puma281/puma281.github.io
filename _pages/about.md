@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a fifth year Dual Degree student in the Department of Chemical Engineering Engineering at the Indian Institute of Technology Bombay (IITB).
+Hello, I am a 2nd year PhD student in the department of Energy, Environmental and Chemical Engineering at Washington University in St.Louis.
 
-A long story...
+A Short intro about me...
 ======
 I really enjoy watching cricket—it's a sport that totally grabs my attention. The thrill when my favorite team is on the field, the excitement of a match that’s neck and neck, and the eagerness for every run or wicket make it so captivating for me.
 
