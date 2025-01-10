@@ -1,5 +1,5 @@
 ---
-title: 'Fragmentation Isoprene in CIMS?'
+title: 'Fragmentation of Isoprene in CIMS?'
 date: 2025-01-09
 permalink: /posts/2023/01/blog-post-5/
 tags:
