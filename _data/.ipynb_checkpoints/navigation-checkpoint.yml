@@ -6,14 +6,16 @@ main:
  # - title: "Talks"
  #   url: /talks/    
 
- - title: "Teaching"
-    url: /teaching/    
+    # - title: "Teaching"
+   # url: /teaching/    
     
  # - title: "Portfolio"
  #   url: /portfolio/
-        
+         
   - title: "Blog Posts"
     url: /year-archive/
+    
+
     
   - title: "CV"
     url: /cv/
@@ -21,5 +23,3 @@ main:
  # - title: "Guide"
  #   url: /markdown/
 
- # - title: "blogs-code-lav"
-     url: /blogs-code-canlab/
