@@ -6,13 +6,12 @@ main:
  # - title: "Talks"
  #   url: /talks/    
 
-<<<<<<< HEAD
  #- title: "Teaching"
   #  url: /teaching/    
-=======
+  
     # - title: "Teaching"
    # url: /teaching/    
->>>>>>> 5ae897738caa8076ef47cffd401e6d5090cd8fd7
+
     
  # - title: "Portfolio"
  #   url: /portfolio/
@@ -28,8 +27,7 @@ main:
  # - title: "Guide"
  #   url: /markdown/
 
-<<<<<<< HEAD
+
  # - title: "blogs-code-lab"
  #  url: /blogs-code-canlab/
-=======
->>>>>>> 5ae897738caa8076ef47cffd401e6d5090cd8fd7
+
